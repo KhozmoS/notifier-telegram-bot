@@ -15,5 +15,5 @@
 
 ### Corriendo el proyecto en local:
 
-> npm install
-> node main.js
+npm install
+node main.js
